@@ -142,6 +142,4 @@ To run the app locally, follow these steps:
 </p>
 </details>
 
-## Credits
 
--   [Aditya Bhattacharya](https://github.com/AdityaBhattacharya1/)
